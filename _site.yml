@@ -4,7 +4,7 @@ navbar:
   title: "STAT 184"
   left:
   - text: "Final Project"
-   href: Final Project.html
+   href: Final Project.nb.html
 output:
   html_document:
  theme: cosmo
