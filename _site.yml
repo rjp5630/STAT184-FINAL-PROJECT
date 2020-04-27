@@ -6,5 +6,5 @@ navbar:
   - text: "Final Project"
    href: Final Project.nb.html
 output:
-  html_document:
+  html_document: Final Project.nb.html
  theme: cosmo
