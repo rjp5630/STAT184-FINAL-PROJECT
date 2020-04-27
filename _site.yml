@@ -1,0 +1,10 @@
+name: "STAT 184: Final Project"
+output_dir: "docs"
+navbar:
+  title: "STAT 184"
+  left:
+  - text: "Final Project"
+   href: Final Project.html
+output:
+  html_document:
+ theme: cosmo
